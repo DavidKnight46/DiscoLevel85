@@ -1,0 +1,76 @@
+.navbar-nav:hover{
+	color: red;
+}
+
+.page-header{
+	text-align: center;
+	font-family: Audiowide;
+}
+
+.textStyle{
+	color : black;
+	font-family: Audiowide;	
+}
+
+.nav-stacked{
+	margin-left: 5%;
+	width: 10%;
+}
+
+.form-group{
+	margin-top: 1.33%;
+}
+
+.blogBody{
+	font-family: Changa;
+	padding-top: 40px;
+	background-image: url(../markus-spiske-357131.jpg);
+	background-size: contain;
+}
+
+.transbox {
+    margin: 5px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+/*body section*/
+html{
+	height: 100%;
+}
+
+body{
+	font-family: Changa;
+	padding-top: 40px;
+	background-image: url(../ps.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+p{
+	text-align: left;
+	color: rgba(82,146,249, 0.5);
+}
+
+.myClass{
+	background-image: url("john-sting-112628 (1).jpg");
+}
+
+.myClassImg{
+	background-image: url("../ben-neale-297658.jpg");
+}
+
+.myClassExcalibur{
+	background-image: url("../ricardo-cruz-31577.jpg");
+}
+
+.footer{
+  	position: bottom;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
